@@ -1,0 +1,41 @@
+{
+  "logoType": "lucideIcon",
+  "logo": {
+    "lucideIcon": "plus-square",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Logica e algebra",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": true,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "index.md",
+      "timestamp": 1726575125443
+    },
+    {
+      "filepath": "Introduzione al corso.md",
+      "timestamp": 1726574967846
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false
+}
