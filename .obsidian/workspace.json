@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0624d03eac97bb9c",
+        "id": "f00e755cfc7c6640",
         "type": "tabs",
         "children": [
           {
-            "id": "9d800fd6bc0d1e7a",
+            "id": "a20c0c9ee0d4ceae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,16 +141,27 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "9d800fd6bc0d1e7a",
+  "active": "a20c0c9ee0d4ceae",
   "lastOpenFiles": [
-    "Introduzione al corso.md",
+    "Relazioni ed applicazioni/Chiusure di relazioni binarie.md",
+    "Relazioni ed applicazioni/Relazione d'ordine.md",
+    "Relazioni ed applicazioni/Relazioni di equivalenza.md",
     "index.md",
+    "data/Pasted image 20240926091812.png",
+    "Relazioni ed applicazioni/Relazioni binarie.md",
+    "Relazioni ed applicazioni/Relazioni.md",
+    "Linguaggi di programmazione.md",
+    "Tipi di computer.md",
+    "Introduzione al corso.md",
+    "Il software.md",
+    "temp/2024-09-19.md",
+    "temp/2024-09-17.md",
+    "data/Pasted image 20240917165807.png",
+    "Relazioni ed applicazioni",
     "temp/2024-09-16.md",
     "Equazioni differenziali/EDO del primo ordine.md",
     "Equazioni differenziali/Equazioni differenziali ordinarie.md",
-    "temp/2024-09-17.md",
     "Equazioni differenziali/EDO del primo ordine",
-    "Untitled.md",
     "Equazioni differenziali",
     "temp",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
@@ -172,13 +175,6 @@
     "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
     "Teoria dei circuiti/Teoria dei circuiti.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
-    "Elettrostatica/Materiale conduttore.md",
-    "Elettrostatica/Flusso di un campo vettoriale.md",
-    "Elettrostatica/Potenziale e tensione elettrica.md",
-    "Elettrostatica/Principio di conservazione della carica.md",
-    "Componenti dinamici/Componenti dinamici.md",
-    "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Bipoli compositi/Collegamento di doppi bipoli.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -188,13 +184,10 @@
     "data/Pasted image 20240902164403.png",
     "data/Pasted image 20240902164322.png",
     "data/Pasted image 20240902164157.png",
-    "data/Pasted image 20240902163846.png",
-    "data/Pasted image 20240902163313.png",
     "Bipoli compositi",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
     "data",
-    "Elettrostatica",
-    "old"
+    "Elettrostatica"
   ]
 }

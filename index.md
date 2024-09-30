@@ -1,3 +1,7 @@
 Il corso di Logica e Algebra affronta temi fondamentali su relazioni, logica e strutture algebriche. Nella parte dedicata alle relazioni e applicazioni, si studiano le relazioni binarie e le loro proprietà, come riflessività e transitività. Si trattano concetti come relazioni di equivalenza, insiemi quoziente, e il teorema di Cantor. Inoltre, si esplorano le relazioni d'ordine e i reticoli. La sezione di logica proposizionale introduce il linguaggio della logica, le tautologie, le deduzioni, e la forma normale disgiuntiva e congiuntiva. Vengono trattati anche i sistemi formali, con i teoremi di correttezza e completezza. Nella logica del primo ordine, si studiano i linguaggi predicativi, le formule e le interpretazioni, insieme ai teoremi fondamentali e le questioni di decidibilità. Infine, nella parte sulle strutture algebriche, si introducono semigruppi, gruppi, anelli e campi. Si analizzano le relazioni di congruenza, le strutture quozienti e i teoremi di omomorfismo.
 
 1. [[Introduzione al corso]]
+2. [[Relazioni]]
+	1. [[Relazioni binarie]]
+	2. [[Chiusure di relazioni binarie]]
+	3. [[Relazioni di equivalenza]]
