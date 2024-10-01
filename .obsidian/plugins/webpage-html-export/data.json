@@ -9,7 +9,7 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
-      "Equazioni differenziali",
+      "Relazioni ed applicazioni",
       "index.md",
       "Introduzione al corso.md"
     ],
