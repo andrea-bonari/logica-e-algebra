@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f00e755cfc7c6640",
+        "id": "d9581025b2d58e26",
         "type": "tabs",
         "children": [
           {
-            "id": "a20c0c9ee0d4ceae",
+            "id": "f55d7778d650d62b",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Logica proposizionale/Sistemi deduttivi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logica proposizionale/Sistemi deduttivi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logica proposizionale/Sistemi deduttivi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logica proposizionale/Sistemi deduttivi.md"
+              }
             }
           }
         ]
@@ -141,23 +149,31 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a20c0c9ee0d4ceae",
+  "active": "f55d7778d650d62b",
   "lastOpenFiles": [
-    "Relazioni ed applicazioni/Chiusure di relazioni binarie.md",
-    "Relazioni ed applicazioni/Relazione d'ordine.md",
-    "Relazioni ed applicazioni/Relazioni di equivalenza.md",
+    "Logica proposizionale/Logica proposizionale.md",
+    "Logica proposizionale/Sistemi deduttivi.md",
     "index.md",
+    "temp/2024-09-17.md",
+    "Logica proposizionale",
+    "Relazioni ed funzioni/Funzioni.md",
+    "Relazioni ed funzioni/Relazioni d'ordine.md",
+    "Relazioni ed funzioni/Relazioni di equivalenza.md",
+    "temp/2024-10-01.md",
+    "data/Pasted image 20241009151156.png",
+    "Cheatsheet programmazione.md",
+    "temp/Untitled.md",
+    "Relazioni ed funzioni/Chiusure di relazioni binarie.md",
     "data/Pasted image 20240926091812.png",
-    "Relazioni ed applicazioni/Relazioni binarie.md",
-    "Relazioni ed applicazioni/Relazioni.md",
+    "Relazioni ed funzioni/Relazioni binarie.md",
+    "Relazioni ed funzioni/Relazioni.md",
     "Linguaggi di programmazione.md",
     "Tipi di computer.md",
     "Introduzione al corso.md",
     "Il software.md",
     "temp/2024-09-19.md",
-    "temp/2024-09-17.md",
     "data/Pasted image 20240917165807.png",
-    "Relazioni ed applicazioni",
+    "Relazioni ed funzioni",
     "temp/2024-09-16.md",
     "Equazioni differenziali/EDO del primo ordine.md",
     "Equazioni differenziali/Equazioni differenziali ordinarie.md",
@@ -169,12 +185,6 @@
     "Teoria dei circuiti/Generatori pilotati.md",
     "Teoria dei circuiti/Metodo delle prove semplici.md",
     "Teoria dei circuiti/N-poli.md",
-    "Teoria dei circuiti/Potenza ed energia elettrica.md",
-    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Teoria dei circuiti/Risoluzione di circuiti.md",
-    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "Teoria dei circuiti/Teoria dei circuiti.md",
-    "Elettrostatica/Fondamenti di elettrostatica.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -183,11 +193,9 @@
     "data/Pasted image 20240902164742.png",
     "data/Pasted image 20240902164403.png",
     "data/Pasted image 20240902164322.png",
-    "data/Pasted image 20240902164157.png",
     "Bipoli compositi",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
-    "data",
-    "Elettrostatica"
+    "data"
   ]
 }

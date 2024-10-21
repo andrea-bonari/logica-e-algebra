@@ -9,7 +9,7 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
-      "Relazioni ed applicazioni",
+      "Relazioni ed funzioni",
       "index.md",
       "Introduzione al corso.md"
     ],

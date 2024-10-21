@@ -5,3 +5,10 @@ Il corso di Logica e Algebra affronta temi fondamentali su relazioni, logica e s
 	1. [[Relazioni binarie]]
 	2. [[Chiusure di relazioni binarie]]
 	3. [[Relazioni di equivalenza]]
+	4. [[Relazioni d'ordine]]
+	5. [[Funzioni]]
+3. [[Logica proposizionale]]
+	1. [[Sistemi deduttivi]]
+
+
+
