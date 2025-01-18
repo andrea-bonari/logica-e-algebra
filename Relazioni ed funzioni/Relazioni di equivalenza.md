@@ -15,4 +15,4 @@
 >Sia $\rho\subseteq A\times A$ d'equivalenza $\forall a\in A$, la classe d'equivalenza con rappresentante $a$ è definita come: $$[a]_{\rho}:=\set{b\in A:\quad (a,b)\in\rho}$$ Il rappresentante non è unico in generale, infatti: $$b\rho a\Longrightarrow [a]_{\rho}=[b]_{\rho}$$
 >
 
-Data $\rho\subseteq A\times A$ d'equivalenza, allora $A / \rho$ forma una partizione di $A$, cioè: $\set{A_{i}}_{i\in I}\quad A_{i}\subseteq A$ collezione di sottoinsiemi di $A$ tale che $\bigcup_{i\in I} A_{i}=A$ e $A_{i}\cap A_{j}\quad i\neq j$.
+Data $\rho\subseteq A\times A$ d'equivalenza, allora $A  \mathbin{/} \rho$ forma una partizione di $A$, cioè: $\set{A_{i}}_{i\in I}\quad A_{i}\subseteq A$ collezione di sottoinsiemi di $A$ tale che $\bigcup_{i\in I} A_{i}=A$ e $A_{i}\cap A_{j}\quad i\neq j$.

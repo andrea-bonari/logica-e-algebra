@@ -24,5 +24,18 @@ Allora si dice che $D_{n}$ è un teorema della teoria L che ha $x$ premesse $\Ga
 >  
 >Nel caso $\Gamma=\emptyset$, il teorema si riduce a $\vdash_{L} A\Leftrightarrow\models A$, cioè $A$ è una tautologia.
 
+### Risoluzione
+>[!note]
+>A differenza della teoria L, non ha assiomi propri e funziona per refutazione. La risoluzione verifica se un insieme $\Lambda$ di formule è insoddisfacibile. Quindi: $$\Lambda\text{ è insoddisfacibile se }\Lambda^{C}\vdash_{R}\square$$
+>Definiamo:
+>- Letterale: una lettera enunciativa o una sua negata ($A$ o $\lnot A$)
+>- Clausola: È un insieme di letterali, anche dette stringhe privilegiate. La clausola vuota è indicata come $\square$, mentre l'insieme di clausole di $\Lambda$ è $\Lambda^{C}$
+>- Regola d'inferenza: diciamo che la clausola $R$ è una risolvente delle clausole $C_{1},C_{2}$ e scriviamo $C_{1},C_{2}\vdash_{R}R$ se: $$A\in C_{1}\quad \lnot A\in C_{2}\qquad R=(C_{1}\smallsetminus\set{A})\cup(C_{2}\smallsetminus\set{\lnot A})$$
 
+>[!warning]
+>La regola di inferenza si applica per un letterale e il suo negato alla volta.
+
+Sia $\Lambda^{C}$ l'insieme di clausole, una derivazione per risoluzione della clausola $C$ da $\Lambda^{C}$ è una sequenza di clausole $D_{1},\cdots,D_{n}$ tale che $D_{n}=C$ e: $$\Lambda^{C}\vdash_{R}D_{1}\quad\Lambda^{C}\cup\set{D_{1}}\vdash_{R}D_{2}\quad\cdots\quad \Lambda^{C}\cup\set{D_{1},\cdots,D_{n-1}}\vdash_{R}=D_{n}$$
+>[!tip]
+>Le clausole, in generale, si possono utilizzare più di una volta.
 

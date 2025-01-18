@@ -9,6 +9,12 @@ Il corso di Logica e Algebra affronta temi fondamentali su relazioni, logica e s
 	5. [[Funzioni]]
 3. [[Logica proposizionale]]
 	1. [[Sistemi deduttivi]]
-
-
-
+4. [[Logica del primo ordine]]
+	1. [[Risoluzione logica]]
+	2. [[Teoria K]]
+5. [[Strutture algebriche]]
+	1. [[Sottostrutture algebriche]]
+	2. [[Relazioni di congruenza]]
+	3. [[Omomorfismi]]
+	4. [[Normali]]
+	5. [[Ideali]]

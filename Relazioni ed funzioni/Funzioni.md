@@ -19,16 +19,16 @@
 
 ### Mappa canonica associata
 >[!note]
->Data una relazione d'equivalenza $\rho\subseteq A\times A$, esiste una funzione suriettiva, detta canonica tale che: $$\pi_{\rho}:A\to A / \rho\qquad \pi_{\rho}(a):=[a]_{\rho}$$
+>Data una relazione d'equivalenza $\rho\subseteq A\times A$, esiste una funzione suriettiva, detta canonica tale che: $$\pi_{\rho}:A\to A \mathbin{/} \rho\qquad \pi_{\rho}(a):=[a]_{\rho}$$
 
 ### Nucleo
 >[!note]
 >Il nucleo di una funzione $f:A\to B$ è la relazione $\ker\cdot f\subseteq A\times A$ tale che $a_{1}\ker a_{2}$ se $f(a_{1})=f(a_{2})$.
 
-Possiamo dire che $a_{1}\ker a_{2}$ se e solo se $a_{1},a_{2}\in f^{-1}(b)$ per qualche $b\in B$. Inoltre $A / \ker=\set{f^{-1}(b)\quad b\in B}$
+Possiamo dire che $a_{1}\ker a_{2}$ se e solo se $a_{1},a_{2}\in f^{-1}(b)$ per qualche $b\in B$. Inoltre $A  \mathbin{/} \ker=\set{f^{-1}(b)\quad b\in B}$
 
 ### Teorema di fattorizzazione
 >[!note] Teorema di fattorizzazione
->Sia $f:A\to B$ e sia $\rho=\ker f$. Allora se $\pi_{\rho}:A\to A/\rho$ è la mappa canonica $\pi_{rho}(a)=[a]_{\rho}$, allora esiste una funzione $g:  A/\rho\to B$ iniettiva tale che: $$f=\pi_{\rho}\cdot g$$
+>Sia $f:A\to B$ e sia $\rho=\ker f$. Allora se $\pi_{\rho}:A\to A \mathbin{/}\rho$ è la mappa canonica $\pi_{rho}(a)=[a]_{\rho}$, allora esiste una funzione $g:  A \mathbin{/}\rho\to B$ iniettiva tale che: $$f=\pi_{\rho}\cdot g$$
 >Inoltre se $f$ è suriettiva, allora $g$ è biunivoca.
 

@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f55d7778d650d62b",
+            "id": "40f71f0cac732b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica proposizionale/Sistemi deduttivi.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principio di equivalenza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logica proposizionale/Sistemi deduttivi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logica proposizionale/Sistemi deduttivi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Logica proposizionale/Sistemi deduttivi.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -149,42 +161,44 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f55d7778d650d62b",
+  "active": "40f71f0cac732b10",
   "lastOpenFiles": [
-    "Logica proposizionale/Logica proposizionale.md",
-    "Logica proposizionale/Sistemi deduttivi.md",
     "index.md",
-    "temp/2024-09-17.md",
-    "Logica proposizionale",
-    "Relazioni ed funzioni/Funzioni.md",
-    "Relazioni ed funzioni/Relazioni d'ordine.md",
-    "Relazioni ed funzioni/Relazioni di equivalenza.md",
+    "Strutture algebriche/Ideali.md",
+    "Strutture algebriche/Normali.md",
+    "Strutture algebriche/Sottostrutture algebriche.md",
+    "Strutture algebriche/Strutture algebriche.md",
+    "Strutture algebriche/Relazioni di congruenza.md",
+    "Strutture algebriche/Omomorfismi.md",
     "temp/2024-10-01.md",
+    "Relazioni ed funzioni/Relazioni di equivalenza.md",
+    "Logica del primo ordine/Teoria K.md",
+    "Logica del primo ordine/Risoluzione logica.md",
+    "Logica del primo ordine/Logica del primo ordine.md",
+    "Relazioni ed funzioni/Relazioni binarie.md",
+    "Relazioni ed funzioni/Relazioni.md",
+    "Relazioni ed funzioni/Chiusure di relazioni binarie.md",
+    "Giornata 29 di campo.md",
+    "Campetto di CDA.md",
+    "Strutture algebriche",
+    "Logica proposizionale/Sistemi deduttivi.md",
+    "Logica proposizionale/Logica proposizionale.md",
+    "Relazioni ed funzioni/Relazioni d'ordine.md",
+    "Introduzione al corso.md",
+    "Relazioni ed funzioni/Funzioni.md",
+    "temp/2024-09-19.md",
+    "temp/2024-09-17.md",
+    "Logica del primo ordine",
+    "Logica proposizionale",
     "data/Pasted image 20241009151156.png",
     "Cheatsheet programmazione.md",
     "temp/Untitled.md",
-    "Relazioni ed funzioni/Chiusure di relazioni binarie.md",
     "data/Pasted image 20240926091812.png",
-    "Relazioni ed funzioni/Relazioni binarie.md",
-    "Relazioni ed funzioni/Relazioni.md",
-    "Linguaggi di programmazione.md",
-    "Tipi di computer.md",
-    "Introduzione al corso.md",
-    "Il software.md",
-    "temp/2024-09-19.md",
     "data/Pasted image 20240917165807.png",
     "Relazioni ed funzioni",
-    "temp/2024-09-16.md",
-    "Equazioni differenziali/EDO del primo ordine.md",
-    "Equazioni differenziali/Equazioni differenziali ordinarie.md",
     "Equazioni differenziali/EDO del primo ordine",
     "Equazioni differenziali",
     "temp",
-    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
-    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
-    "Teoria dei circuiti/Generatori pilotati.md",
-    "Teoria dei circuiti/Metodo delle prove semplici.md",
-    "Teoria dei circuiti/N-poli.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -194,8 +208,6 @@
     "data/Pasted image 20240902164403.png",
     "data/Pasted image 20240902164322.png",
     "Bipoli compositi",
-    "Teoria dei circuiti/Bipoli",
-    "Teoria dei circuiti",
-    "data"
+    "Teoria dei circuiti/Bipoli"
   ]
 }

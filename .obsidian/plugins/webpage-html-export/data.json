@@ -9,7 +9,10 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
+      "Logica del primo ordine",
+      "Logica proposizionale",
       "Relazioni ed funzioni",
+      "Strutture algebriche",
       "index.md",
       "Introduzione al corso.md"
     ],
@@ -173,7 +176,7 @@
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
     "authorName": "",
-    "exportRoot": "",
+    "exportRoot": "/",
     "includePluginCSS": [],
     "includeSvelteCSS": true
   },
