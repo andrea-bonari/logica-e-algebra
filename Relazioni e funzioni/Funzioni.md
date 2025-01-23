@@ -29,6 +29,6 @@ Possiamo dire che $a_{1}\ker a_{2}$ se e solo se $a_{1},a_{2}\in f^{-1}(b)$ per 
 
 ### Teorema di fattorizzazione
 >[!note] Teorema di fattorizzazione
->Sia $f:A\to B$ e sia $\rho=\ker f$. Allora se $\pi_{\rho}:A\to A \mathbin{/}\rho$ è la mappa canonica $\pi_{rho}(a)=[a]_{\rho}$, allora esiste una funzione $g:  A \mathbin{/}\rho\to B$ iniettiva tale che: $$f=\pi_{\rho}\cdot g$$
+>Sia $f:A\to B$ e sia $\rho=\ker f$. Allora se $\pi_{\rho}:A\to A \mathbin{/}\rho$ è la mappa canonica $\pi_{\rho}(a)=[a]_{\rho}$, allora esiste una funzione $g:  A \mathbin{/}\rho\to B$ iniettiva tale che: $$f=\pi_{\rho}\cdot g$$
 >Inoltre se $f$ è suriettiva, allora $g$ è biunivoca.
 

@@ -99,7 +99,7 @@ Due FBF $\psi,\varphi$ si dicono semanticamente equivalenti ($\psi\equiv\varphi$
 >
 >Data una FBF $F$, esiste sempre una FBF $A$ tale che $F\equiv A$ e $A$ è in forma normale prenessa (FNP). Inoltre c'è un algoritmo per portare $F$ in FNP.
 
-Uso le seguenti equivalente semantiche per portare in testa i quantificatori:
+Uso le seguenti equivalente semantiche per portare in testa i quantificatori: 
 1. $\lnot\forall x B\equiv \exists x\lnot B$ e $\lnot\exists xB\equiv \forall x\lnot B$ con $x$ variabile libera in $B$. $y$ è una variabile che è un termine libero per $x$ se non succede $\forall y(x)$ o $\exists y(x)$. Questo succede se per esempio $y$ non compare in $B(x)$. Con $B[y \mathbin{/}x]$ indico la forma in cui alla variabile libera $x$ sostituisco $y$.
 2. $(\forall x B(x)\land\mathcal{E})\equiv\forall y(B[y/x]\land\mathcal{E})$ o $(\exists x B(x)\lor\mathcal{E})\equiv\exists y(B[y/x]\lor\mathcal{E})$ se $y$ non compare in $\mathcal{E}$ e $y$ è libera per $x$ in $B(x)$.
 3. $\forall x B(x)\Rightarrow\mathcal{E}\equiv\exists y( B[y  \mathbin{/} x] \Rightarrow\mathcal{E})$ o $\exists x B(x)\Rightarrow\mathcal{E}\equiv\forall y( B[y  \mathbin{/} x] \Rightarrow\mathcal{E})$ se $y$ non compare in $\mathcal{E}$ e $y$ è libera per $x$ in $B(x)$.

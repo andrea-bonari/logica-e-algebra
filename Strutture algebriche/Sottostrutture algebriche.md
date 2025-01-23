@@ -1,4 +1,4 @@
->[!note]
+ >[!note]
 >Sia $(A,\Omega)$ una struttura algebrica e $H\subseteq A$. Allora $(H,\Omega)$ è una sottostruttura algebrica se tutte le operazioni di $\Omega$ si restringono ad $H$. Cioè se $*\in\Omega$ allora $\forall h_{1},h_{2}\in H\quad h_{1}*h_{2}\in H$.
 
 - $(H,\bullet)$ è sottosemigruppo di un semigruppo $(S,\bullet)$ con $H\subseteq S$ se e solo se $\forall a,b\in H\quad a\bullet b\in H$.

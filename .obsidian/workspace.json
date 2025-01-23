@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Strutture algebriche"
             }
+          },
+          {
+            "id": "f308cdf3020112ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relazioni e funzioni/Relazioni d'ordine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relazioni d'ordine"
+            }
           }
         ]
       }
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deduzione semantica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,38 +177,39 @@
   },
   "active": "7a9f511a27069552",
   "lastOpenFiles": [
+    "Strutture algebriche/Sottostrutture algebriche.md",
+    "Strutture algebriche/Relazioni di congruenza.md",
+    "Strutture algebriche/Normali.md",
+    "Strutture algebriche/Strutture algebriche.md",
+    "index.md",
+    "Logica proposizionale/Sistemi deduttivi.md",
+    "Logica proposizionale/Logica proposizionale.md",
+    "Strutture algebriche/Ideali.md",
+    "Strutture algebriche/Omomorfismi.md",
+    "Logica del primo ordine/Logica del primo ordine.md",
+    "Logica del primo ordine/Risoluzione logica.md",
+    "Formulario.md",
+    "Logica del primo ordine/Teoria K.md",
+    "Relazioni e funzioni/Relazioni d'ordine.md",
+    "Relazioni e funzioni/Funzioni.md",
+    "Relazioni e funzioni/Chiusure di relazioni binarie.md",
+    "Relazioni e funzioni/Relazioni.md",
+    "Relazioni e funzioni/Relazioni binarie.md",
+    "Relazioni e funzioni/Relazioni di equivalenza.md",
     "data/Pasted image 20241009151156.png",
     "data/Pasted image 20240926091812.png",
     "data/Pasted image 20240917165807.png",
-    "Logica del primo ordine/Teoria K.md",
-    "index.md",
-    "Strutture algebriche/Ideali.md",
-    "Strutture algebriche/Normali.md",
-    "Strutture algebriche/Sottostrutture algebriche.md",
-    "Strutture algebriche/Strutture algebriche.md",
-    "Strutture algebriche/Relazioni di congruenza.md",
-    "Strutture algebriche/Omomorfismi.md",
     "temp/2024-10-01.md",
-    "Relazioni ed funzioni/Relazioni di equivalenza.md",
-    "Logica del primo ordine/Risoluzione logica.md",
-    "Logica del primo ordine/Logica del primo ordine.md",
-    "Relazioni ed funzioni/Relazioni binarie.md",
-    "Relazioni ed funzioni/Relazioni.md",
-    "Relazioni ed funzioni/Chiusure di relazioni binarie.md",
     "Giornata 29 di campo.md",
     "Campetto di CDA.md",
     "Strutture algebriche",
-    "Logica proposizionale/Sistemi deduttivi.md",
-    "Logica proposizionale/Logica proposizionale.md",
-    "Relazioni ed funzioni/Relazioni d'ordine.md",
     "Introduzione al corso.md",
-    "Relazioni ed funzioni/Funzioni.md",
     "temp/2024-09-19.md",
     "temp/2024-09-17.md",
     "Logica del primo ordine",
     "Logica proposizionale",
     "Cheatsheet programmazione.md",
-    "Relazioni ed funzioni",
+    "Relazioni e funzioni",
     "Equazioni differenziali/EDO del primo ordine",
     "Equazioni differenziali",
     "temp",
